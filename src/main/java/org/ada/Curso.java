@@ -65,4 +65,5 @@ public class Curso {
                 ", version='" + version + '\'' +
                 '}';
     }
+
 }
